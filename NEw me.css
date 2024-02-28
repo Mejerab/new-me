@@ -1,0 +1,84 @@
+body{
+    font-family: "Work Sans", sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+img{
+    max-width: 100%;
+}
+/**Main CSS**/
+header{
+    background-image: url(img/top-view-abstract-assortment-with-innovation-elements\ 1.png);
+    background-position: left center;
+    padding: 80px 0;
+}
+.header-text{
+    width: 40%;
+}
+.header-text h3{
+    font-size: 65px;
+}
+.complex-btn{
+    color: #fff;
+    background-color: #F15B22;
+    padding: 10px 25px;
+    font-weight: 600;
+}
+/**Rec CSS**/
+.rec-img{
+    position: relative;
+}
+.rec-section img{
+    background-image: url(new-year-new-me/images/watch.png);
+    background-position:right center ;
+}
+.rec-text{
+    position: absolute;
+    top: 30%;
+    left: 40px;
+    width: 40%;
+}
+.aaa{
+    color: #F15B22 !important;
+    background-color: #fff;
+    border: 1px solid #F15B22;
+    font-weight: 600;
+}
+/**Footer CSS**/
+footer{
+    background-color: #151414;
+}
+.footer-left{
+    width: 85%;
+}
+.footer-left h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+footer p, span{
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+footer ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 15px;
+}
+.footer-right input{
+    background-color: #151414;
+    border: 1px solid #fff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    padding-right: 50px;
+}
+.footer-right h4{
+    font-weight: 600;
+}
+.footer-right a{
+    border: none;
+}
+.footer-end{
+    height: 50px;
+}
